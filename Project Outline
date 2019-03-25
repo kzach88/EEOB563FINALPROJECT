@@ -1,0 +1,29 @@
+Gene Family Evolution of RNA Helicases in Tobbaco and Arabidopsis
+Introduction 
+RNA helicases (here after RH) are proteins involved in various aspects of RNA metabolism in both plants and animals. They are responsible for unwinding of double stranded RNA molecules in an energy dependent manner, mainly through hydrolysis of NTP’s. RH are involved in functions such as ribosome biogenesis, mRNA splicing, editing and transport of RNA in and out of the cell organelles. The latter function is the interest of our lab. Various reports have pointed out the involvement of RH in the growth, development and stress response in plants. To date RH have been classified into three subfamilies, these are DEAD-box, DEAH-box and DExD/H-box, in which alternative splicing of these genes differ among species. 
+
+Study objectives
+1.	Identify the relevant homologs of DEAD-box/DEAH-box subfamilies in Arabidopsis and tobacco
+2.	Replicate the phylogenetic analysis of the DEAD-box/DEAH-box that has been done previously, using neighbor joining approach. I propose to use other methods like maximum likelihood to reconstruct these trees and update them using the new available data
+3.	Predict the functional evolution of DEAD-box/DEAH-box proteins in Arabidopsis and tobacco
+
+Methods
+Nucleotide Sequences 
+Relevant proteins ID’s will be collected from literature, most of which are published in Xu et al, 2013 and a few most recent from elsewhere. Protein sequences will be retrieved from TAIR, Uniport and or NCBI databases. In total, I plan to work with 60 proteins, 30 proteins from each species and 15 each of either DEAD-box or DEAH-box proteins.
+
+
+Multiple Sequence Alignment
+
+The retrieved sequences will be aligned using MAFFT module on HPC class and they will be saved in either nexus of phylip formats depending on the methods of analysis. 
+Phylogenetic analyses
+	Maximum likelihood
+RAxML77 will be used to construct a  maximum likelihood phylogenetic tree with the GAMMA-LG model of evolution 
+
+	Distance analyses (PHYLIP)
+I will use pairwise distances among the taxa as inputs for phylogenetic reconstruction using NJ. Distance matrices will be estimated using models of amino acid substitution or the models of nucleotide substitution available in protdist for proteins or dnadist for nucleotides. For amino acids, these models are Dayhoff PAM matrix, the JTT (Jones-Taylor-Thornton) model, the PMB (Probability Matrix from Blocks) model, Kimura's distance, and Categories distances) and for DNA sequences, the models are the Jukes-Cantor, K2P and F84. For each of these models, NJ trees will be constructed using an appropriate outgroup. 
+Bootstrap Analysis and Tree Visualization
+I will perform 1000 bootstrap replicates for each analysis and the trees will be viewed or printed by either Newick, Figtree or dendroscope
+References
+Xu R, Zhang S, Huang J, Zheng C (2013) Genome-Wide Comparative In Silico Analysis of the RNA Helicase Gene Family in Zea mays and Glycine max: A Comparison with Arabidopsis and Oryza sativa. PLoS ONE 8(11): e78982. 
+
+Umate P, Tuteja R, Tueja N (2010) Genome-wide analysis of helicase gene family from rice and Arabidopsis: a comparison with yeast and human. Plant Mol Biol 73 (4–5): 449–465
