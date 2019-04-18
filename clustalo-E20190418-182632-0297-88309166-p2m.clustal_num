@@ -1,0 +1,340 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+AT3G46960.1      MNKVEAGNELGFRVGFSGHGGHLRVEPFYTAERDDALNSLPDFVSPPAFAKETKESIKKH	60
+AT2G40700.1      ------------------------------------------------------------	0
+AT5G05450.1      ------------------------------------------------------------	0
+AT1G71280.1      ------------------------------------------------------------	0
+AT1G71370.1      ------------------------------------------------------------	0
+AT3G22310.1      ------------------------------------------------------------	0
+AT3G18600.1      ------------------------------------------------------------	0
+AT5G65900.1      ------------------------------------------------------------	0
+AT4G16630.1      ------------------------------------------------------------	0
+AT1G16280.1      ------------------------------------------------------------	0
+AT5G60990.1      ------------------------------------------------------------	0
+                                                                             
+
+AT3G46960.1      IEEKYLIPRLEPDQFSAEKAENQWDFDWFSRVKMPLQPSLPRSVVVPTWELPFRRQKEDT	120
+AT2G40700.1      ------------------------------------------------------------	0
+AT5G05450.1      ------------------------------------------------------------	0
+AT1G71280.1      ------------------------------------------------------------	0
+AT1G71370.1      ------------------------------------------------------------	0
+AT3G22310.1      ------------------------------------------------------------	0
+AT3G18600.1      ------------------------------------------------------------	0
+AT5G65900.1      ---------------------------------------MA-------------------	2
+AT4G16630.1      ---------------------------------------MPS------------------	3
+AT1G16280.1      ------------------------------------------------------------	0
+AT5G60990.1      ------------------------------------------------------------	0
+                                                                             
+
+AT3G46960.1      ENGAWEPKSVEVDLSEQMYGDQDSGFFPRMVGPPKDFLRGSVNNRPFRP-GGLEDSQSSE	179
+AT2G40700.1      ------------------------------------------------------------	0
+AT5G05450.1      ------------------------------------------------------------	0
+AT1G71280.1      ------------------------------------------------------------	0
+AT1G71370.1      ------------------------------------------------------------	0
+AT3G22310.1      ------------------------------------------------------------	0
+AT3G18600.1      ------------------------------------------------------------	0
+AT5G65900.1      ------------------------NL---------DMEQHSSENEEIKKKKHKKRARDEA	29
+AT4G16630.1      ------------------------SF---------FFEDASDDELELIRNQ--EDSSEE-	27
+AT1G16280.1      ------------------------------------------------------------	0
+AT5G60990.1      ------------------------------------------------------------	0
+                                                                             
+
+AT3G46960.1      RVLPEGVSSGQWVQELLNGGPAQTVPPSFKQSLDLGDLMPYPQTWSVYEDHSSHGNASDE	239
+AT2G40700.1      ------------------------------------------------------------	0
+AT5G05450.1      ------------------------------------------------------------	0
+AT1G71280.1      ------------------------------------------------------------	0
+AT1G71370.1      ------------------------------------------------------------	0
+AT3G22310.1      ------------------------------------------------------------	0
+AT3G18600.1      -----------MV---------------------------------E-----------SD	5
+AT5G65900.1      KKLKQP----AME---------------------------------EEPDHE-DGDAKEN	51
+AT4G16630.1      -DVKEG----------------------------------------EAEEHE-AGEDEDG	45
+AT1G16280.1      ------------------------------------------------------------	0
+AT5G60990.1      ------------------------------------------------------------	0
+                                                                             
+
+AT3G46960.1      NSSKLSI-------------QFDDLFKKAWEEDTFSELEGDDHTAGSESP-------KAE	279
+AT2G40700.1      ------------------------------------------------------------	0
+AT5G05450.1      ------------------------------------------------------------	0
+AT1G71280.1      ------------------------------------------------------------	0
+AT1G71370.1      ------------------------------------------------------------	0
+AT3G22310.1      ---MISTVLR-------------------------RSILG--TSRRTLAASVTSINAALF	30
+AT3G18600.1      K-SSVEE-LKKR---VRKRSRGKKNEQQ-----------------------------KAE	31
+AT5G65900.1      N-ALIDEEPKKKKK-KKNKKRGDTDDGE-------DEAVAEEEPKK-----KKKKNKKLQ	97
+AT4G16630.1      E-EEYEEEDDDEEEEDEKRKR-DADAQSPWDFASYSSSVGEEHARRHTTSIDEKISKAIQ	103
+AT1G16280.1      -----------------------------------------------------------M	1
+AT5G60990.1      ------------------------------------------------------------	0
+                                                                             
+
+AT3G46960.1      AEPDA---------------KASISNEVSKGLETDVTVLDEILSSAKTAIMSEEAVTGSS	324
+AT2G40700.1      -------------------------------------------------MMKRAQQSARE	11
+AT5G05450.1      ------------------------------------------------------------	0
+AT1G71280.1      ------------------------------------------------------------	0
+AT1G71370.1      ------------------------------------------------------------	0
+AT3G22310.1      HNLAPAAATVSDLANGATNVKSLPSNSSPFGVKVRDFHVKSVPSEFRSSIVSSAGFAAQE	90
+AT3G18600.1      EKTHTVEEN------AD-ETQ-----KKS------EKKVKK----------VRGKIEEEE	63
+AT5G65900.1      QRGDTNDE-------ED-EVIA--EEEEP------KKKKKK----------QRKDT-EAK	130
+AT4G16630.1      HRPVPISIN------EE-EEEEEEEEDAS------DAETDK----------QEEYLSEDD	140
+AT1G16280.1      EEPTPEEEG------GI-TIMSK-SRKNP------KTVVNI----------QSQKLDSDQ	37
+AT5G60990.1      ------------------------------------------------------------	0
+                                                                             
+
+AT3G46960.1      DKQL-RKEGWA-----TK-GDSQDIADRFY-----------EL-VPDMAIEFPFELDNFQ	365
+AT2G40700.1      TKQE--------AKDASKAKSGLFASCSFS--SLGLDTKLSDQLKERMGFEAPT---LVQ	58
+AT5G05450.1      ------MDSSA-N------INKALTETRFSDLEPPLSGDIIEA-LNQSDFEFCT---PVQ	43
+AT1G71280.1      ------MDSSPPN------TIIEEAPPRFSELKPPLSEDIIEA-LDRSGFEVCT---PVQ	44
+AT1G71370.1      ------MDSSPPK------TI-TKALPRFSELKPPLSEDIIEA-LDRSGFEVCT---PVQ	43
+AT3G22310.1      YAPSYENDGGI-GDSESVGSSGGGDGLAIA--DLGISPEIVKA-LKGRGIEKLF---PIQ	143
+AT3G18600.1      EKVE-AMEDGEDEKNIVIVGKGIMTNVTFD--SLDLSEQTSIA-IKEMGFQYMT---QIQ	116
+AT5G65900.1      SEEE-EVEDK--EEEKKLEETSIMTNKTFE--SLSLSDNTYKS-IKEMGFARMT---QIQ	181
+AT4G16630.1      EAAEYKPEDATPKPFFSTVDGVSFHADTFM--ELNLSRPLLRA-CETLGYKKPT---PIQ	194
+AT1G16280.1      NTPQFEK-FTN-----PNPSSDTTSATNFE--GLGLAEWAVET-CKELGMRKPT---PVQ	85
+AT5G60990.1      ------------------MEEENEVVKTFA--ELGVREELVKA-CERLGWKNPS---KIQ	36
+                                             :                             .*
+
+AT3G46960.1      KEAICCLEKGESVFVAAHTSAGKTVVAEYAFA---------L------ATKHCTRAVYTA	410
+AT2G40700.1      AQAIPVILSGRDVLVNAPTGTGKTIAYLAPLIHHLQGHSPKV------DRSHGTFALVIV	112
+AT5G05450.1      AATIPLLCSYKDVAVDAATGSGKTLAFVVPLVEILRRSTSFP--P---KP-HQVMGVIIS	97
+AT1G71280.1      AETIPFLCSHKDVVVDAATGSGKTLAFLLPFIEIIRRSNSYP--P---KP-HQVMGVIIS	98
+AT1G71370.1      AETIPFLCSHKDVVVDAATGSGKTLAFLLPFIEIIRRSNSYP--P---KP-HQVMGVIIS	97
+AT3G22310.1      KAVLEPAMEGRDMIGRARTGTGKTLAFGIPIIDKIIKFNAKH--GRGK----NPQCLVLA	197
+AT3G18600.1      AGSIQPLLEGKDVLGAARTGSGKTLAFLIPAVELLFKERF--------SPRNGTGVIVIC	168
+AT5G65900.1      AKAIPPLMMGEDVLGAARTGSGKTLAFLIPAVELLYRVKF--------TPRNGTGVLVIC	233
+AT4G16630.1      AACIPLALTGRDLCASAITGSGKTAAFALPTLERLLFRPKRV---------FATRVLILT	245
+AT1G16280.1      THCVPKILAGRDVLGLAQTGSGKTAAFALPILHRLAEDPY------------GVFALVVT	133
+AT5G60990.1      AEALPFALEGKDVIGLAQTGSGKTGAFAIPILQALLEYVYDSEPKKGRRPDPAFFACVLS	96
+                    :      ..:   * *.:*** .                                  
+
+AT3G46960.1      PIKTISNQKYRDFCGK------FDVGLLTGDVSIRPEA--------SCLIMTTEILRSML	456
+AT2G40700.1      PTRELCLQVYETLEKLLHRFHWIVPGYVMGGEKKAKEKARL-RKGISILIATPGRLLDHL	171
+AT5G05450.1      PTRELSTQIYNVAQPFVSTLANVNSVLLVGGREVKADMKIIEEEGCNVLIGTPGRLSDIM	157
+AT1G71280.1      PTRELSAQIHKVARAVRL--------DFAKCREVEADMNTLEEEGANLLIGTPGRLSDMM	150
+AT1G71370.1      PTRELSAQIHKVAEPFVSTLPNVNSVLLVGGREVEADMNTLEEEGANLLIGTPGRLSDMM	157
+AT3G22310.1      PTRELARQVEKEFRESAPSLDTIC---LYGGTPIGQQMREL-NYGIDVAVGTPGRIIDLM	253
+AT3G18600.1      PTRELAIQTKNVAEELLKHHSQTVS-MVIGGNNRRSEAQRI-ASGSNLVIATPGRLLDHL	226
+AT5G65900.1      PTRELAIQSYGVAKELLKYHSQTVG-KVIGGEKRKTEAEIL-AKGVNLLVATPGRLLDHL	291
+AT4G16630.1      PTRELAVQIHSMIQNLAQFTDIKCG-LIVGGLSVREQEVVL-RSMPDIVVATPGRMIDHL	303
+AT1G16280.1      PTRELAFQLAEQFKALGSCLNLRCS-VIVGGMDMLTQTMSL-VSRPHIVITTPGRIKVLL	191
+AT5G60990.1      PTRELAIQIAEQFEALGADISLRCA-VLVGGIDRMQQTIAL-GKRPHVIVATPGRLWDHM	154
+                 * : :. *                   .        :            : *   :   :
+
+AT3G46960.1      YRGA---DIIRDIEWVIFDEVHYVNDVERGVVWEEVIIMLP----------------RHI	497
+AT2G40700.1      KNTAS--FVHKNLRWVIFDEADSILELGYGKEIEQIIKLLGSGQNEQGEEDDIVPKGIQK	229
+AT5G05450.1      ERMEI--LDFRNLEILILDEADRLLEMGFQRQVNYIISRLP----------------KQR	199
+AT1G71280.1      KRMEF--LDFRNLEILILDEADRLLDMGFQKQVNYIISRLP----------------KQR	192
+AT1G71370.1      KRMEF--LDFRNLEILILDEADRLLDMGFQKQVNYIISRLP----------------KQR	199
+AT3G22310.1      KRGA---LNLSEVQFVVLDEADQMLQVGFAEDVEIILQKLP----------------AKR	294
+AT3G18600.1      QNTKA--FIYKHLKCLVIDEADRILEENFEEDMNKILKILP----------------KTR	268
+AT5G65900.1      ENTNG--FIFKNLKFLVMDEADRILEQNFEEDLKKILNLLP----------------KTR	333
+AT4G16630.1      RNSMS--VDLDDLAVLILDEADRLLQTGFATEITELVRLCP----------------KRR	345
+AT1G16280.1      ENNPDVPPVFSRTKFLVLDEADRVLDVGFQDELRTIFQCLP----------------KSR	235
+AT5G60990.1      SDTKG--FSLKSLKYLVLDEADRLLNEDFEKSLNQILEEIP----------------LER	196
+                                :::**.. : :         :.                       
+
+AT3G46960.1      NFVLLSATVPNTFEFADWIGRTKQKEIRVTGTTKRPVPLEHCLFYSGELYKVCENEVFLS	557
+AT2G40700.1      QNLLLSATLNDKVNDLAKLSLDD------------PV--------------------MIG	257
+AT5G05450.1      RTGLFSATQTEGVEELAKAGLRN------------PV--------------------RVE	227
+AT1G71280.1      RTGLFSATQTQAVADLAKAGLRN-------------------------------------	215
+AT1G71370.1      RTGLFSATQTQAVADLAKAGLRN------------AM--------------------EVI	227
+AT3G22310.1      QSMMFSATMPSWIRSLTKKYLNN------------PL--------------------TID	322
+AT3G18600.1      QTALFSATQTSKVKDLARVSLTS------------PV--------------------HVD	296
+AT5G65900.1      QTSLFSATQSAKVEDLARVSLTS------------PV--------------------YID	361
+AT4G16630.1      QTMLFSATMTEEVKELVKLSLNK------------PL--------------------RLS	373
+AT1G16280.1      QTLLFSATMTSNLQALLEHSSNK------------AY--------------------FYE	263
+AT5G60990.1      KTFLFSATMTKKVRKLQRACLRN------------PV--------------------KIE	224
+                 .  ::***    .         .                                     
+
+AT3G46960.1      KGIKDAKDSQKKKNSNAVSVAPKQQMGSSAHQDGSKSQKHEAHSRGKQNKHSSVKDVGKS	617
+AT2G40700.1      LD-----NTKLQQNLS---------IESPAAPDSD-AEDMVIHVNKSANPLS--ED--YG	298
+AT5G05450.1      VR-----AKSKSESSQ----------------------------------QL--TN--SK	244
+AT1G71280.1      ------------------------------------------------------------	215
+AT1G71370.1      SG-----AES---------------------------------------------K--SK	235
+AT3G22310.1      LV-----GDS---------------------------------------------D--QK	330
+AT3G18600.1      VD-----DGR---------------------------------------------R--KV	304
+AT5G65900.1      VD-----EGR---------------------------------------------K--EV	369
+AT4G16630.1      AD-----PSA---------------------------------------------R--RP	381
+AT1G16280.1      AY-----EGL---------------------------------------------K--TV	271
+AT5G60990.1      AA-----SKY---------------------------------------------S--TV	232
+                                                                             
+
+AT3G46960.1      SYSGNSQNNGAFRRSAASNWLLLI-NK-LSKMSLLPVVVFCFSKNYCDRCADALTGTDLT	675
+AT2G40700.1      IPSQLVQRYLRVPCGARLVALLSVLKNLFEREASQKVVVFFSTRDAVDFHYSLLSEFQWP	358
+AT5G05450.1      TPSGLHLEYMECEADKKSSQLVDLLIK-NS---DKKLIVFFMTCASVDYWGLVLSKIP--	298
+AT1G71280.1      -------PYLKCEADQKSSQLVHLLIE-NK---NKKLVVFFMTCACVDYWGLVISKIP--	262
+AT1G71370.1      TSSGLYCEYLKCEADQKSSQLVHLLIE-NK---NKKLVVFFMTCACVDYWGLVLSKIP--	289
+AT3G22310.1      LADGITMYSIAADSYGRASIIGPLVKE-H--GKGGKCIVFTQTKRDADRLAFGLA-----	382
+AT3G18600.1      TNEGLEQGYCVVPSKQRLILLISFLK---KNL-NKKIMVFFSTCKSVQFHTEIMK-----	355
+AT5G65900.1      TNEGLEQGYCVVPSAMRLLFLLTFLK---RFQGKKKIMVFFSTCKSTKFHAELFR-----	421
+AT4G16630.1      --PGLTEEVVRIRRTREANQEAVLLSL-CTRTFKSKVIIFSGTKQAAHRLKILFG-----	433
+AT1G16280.1      --DTLTQQFIFEDKDAKELYLVHILSQ-MEDKGIRSAMIFVSTCRTCQRLSLMLD-----	323
+AT5G60990.1      --DTLKQQYRFVAAKYKDCYLVYILSE-MPES---TSMIFTRTCDGTRFLALVLR-----	281
+                                        .             ::*  :          :      
+
+AT3G46960.1      SSSEKSE---IRVFCDKAFSRLKGSDRNLPQVLRLQSLLHRGIGVHHAGLLPIVKEVVEM	732
+AT2G40700.1      PNSETEEEGTKELFLKCKTFRLHG------------------------SMEQEDRRSAFG	394
+AT5G05450.1      ------------ALKSISLIPIHG------------------------DMKQNARDKALA	322
+AT1G71280.1      ------------SLKSISFFPTHG------------------------KMDQKGRDTALA	286
+AT1G71370.1      ------------TLKSISFFSTHG------------------------KMDQKGRDTALA	313
+AT3G22310.1      --------------KSYKCEALHG------------------------DISQAQRERTLA	404
+AT3G18600.1      -------------ISDVDVSDIHG------------------------GMDQNRRTKTFF	378
+AT5G65900.1      -------------YIKFDCLEIRG------------------------GIDQNKRTPTFL	444
+AT4G16630.1      -------------LAGLKAAELHG------------------------NLTQAQRLDSLE	456
+AT1G16280.1      -------------ELEVENIAMHS------------------------LNSQSMRLSALS	346
+AT5G60990.1      -------------SLGFRAIPISG------------------------QMTQSKRLGALN	304
+                                        .                              :     
+
+AT3G46960.1      LFCRGVIKVLFSTETFAMGVNAPARTVVFDALRKFDGKEFRQLLPGEYTQMAGRAGRR-G	791
+AT2G40700.1      TFKTEKQAVLLSTDVAARGLDFPKVRCIIQYDCP--------GEATEYVHRVGRTARI-G	445
+AT5G05450.1      SFTKASSGALLCTDVAARGLDIPGIDYVVQYDPP--------QDPNMFNHRAGRTARL-G	373
+AT1G71280.1      SFTEASSGVLLCTDVAARGLDIPGIVYI--------------------------------	314
+AT1G71370.1      SFTEASSGVLLCTDVAARGLDIPGIDYVVQYDPP--------QDPDVFIHRVGRTARM-E	364
+AT3G22310.1      GFRDGNFSILVATDVAARGLDVPNVDLVIHYELP--------NNTETFVHRTGRTGRA-G	455
+AT3G18600.1      DFMKAKKGILLCTDVAARGLDIPSVDWIIQYDPP--------DKPTEYIHRVGRTARGEG	430
+AT5G65900.1      QFIKAETGILLCTNVAARGLDFPHVDWIVQYDPP--------DNPTDYIHRVGRTARGEG	496
+AT4G16630.1      LFRKQEVDFLIATDVAARGLDIIGVQTVINYACP--------REIDSYVHRVGRTARA-G	507
+AT1G16280.1      KFKSGKVPILLATDVASRGLDIPTVDLVINYDIP--------RDPRDYVHRVGRTARA-G	397
+AT5G60990.1      KFKAGECNILVCTDVASRGLDIPSVDVVINYDIP--------TNSKDYIHRVGRTARA-G	355
+                  *       *..*:. : *::      :                                
+
+AT3G46960.1      LDKTGTVVVMCRDEVPDESDLRRVIVGS-ATRLESQFRLTYIMILHLLRVEELKVEDMLK	850
+AT2G40700.1      EKGEA-LLFLQPI----EIDYLKELKKHGA-SLTE-----------------YPLMK---	479
+AT5G05450.1      RQGRA-IVFLLPK----EEAYVEFMRI---RRVPL---------------EERKCSE---	407
+AT1G71280.1      ------------------------------------------------------------	314
+AT1G71370.1      RQGRA-IVFLMPK----ETDYVEFMRI---RRVPL---------------QERKCSE---	398
+AT3G22310.1      KKGSA-ILIHGQD----QTRAVKMIEKEVGSRFNE---------------LPSIAVE---	492
+AT3G18600.1      AKGKA-LLVLIPE----ELQFIRYLKA---AKVPV---------------KELEFNE---	464
+AT5G65900.1      AKGKA-LLVLTPQ----ELKFIQYLKA---AKIPV---------------EEHEFEE---	530
+AT4G16630.1      REGYA-VTFVTDS----DRSLLKVIAKKVGSKLKS-----------------RVIPE---	542
+AT1G16280.1      RGGLA-VSIITET----DVKLIHKIEEEVGKKMEP-----------------YNKKV---	432
+AT5G60990.1      RSGVG-ISLVNQY----ELEWYIQIEKLIGKKLPE-----------------YPAEE---	390
+                                                                             
+
+AT3G46960.1      RSFAEFHAQKKLPEKQQLLMIKRSLPTK-----HIECIKGEPAI----EDYYDMYMEANE	901
+AT2G40700.1      -VLDKFPIPGNMPRIKKVLSLESHPWVISLQRALESLTYAEPKMKSLAKNAFVSWVRGYA	538
+AT5G05450.1      ------------------------D-ASDVIPIIRSAAMKDRAVMEKGLKAFVSFVRAYK	442
+AT1G71280.1      ----------------------------------RSLAIKDREVLEKGLKAFVSFVRAYK	340
+AT1G71370.1      ------------------------N-ASDVIPIIRSLAIKDRAVLEKGLQAFVSFVRAYK	433
+AT3G22310.1      ------------------------RGSASM------------------------------	498
+AT3G18600.1      ------------------------KRLSNVQSALEKCVAKDYNLNKLAKDAYRAYLSAYN	500
+AT5G65900.1      ------------------------KKLLDVKPFVENLISENYALKESAKEAYKTYISGYD	566
+AT4G16630.1      ------------------------QSIVKWS-----------QIIDEMEDQYSAVISAER	567
+AT1G16280.1      ------------------------ITDSLE---------------------------VTK	441
+AT5G60990.1      ------------------------DEVLSL---------------------------LER	399
+                                                                             
+
+AT3G46960.1      YNNKMSEAVMQSPYAQSFL----------------V--QGRVVVMKSGMGIDNLLGIVLK	943
+AT2G40700.1      AHKGELKSIF-------------------------VVKKLHLGHVAKSFALREQPSLVGK	573
+AT5G05450.1      EHHCSFIFRWKDLEIGKLAMG-YGLLY---LPSMSEVKQHRLS----SEGFTPVEGVKFE	494
+AT1G71280.1      EHQCSYIFSWKGLEIGKLAMG-YGILS---FPYISEVKQDRIG----IVGFTPVQGITFE	392
+AT1G71370.1      EHHCSYIFSWKGLEIGKLAMG-YGILS---FPYISEVKQDRIG----IVGFTPVQGITFE	485
+AT3G22310.1      ------------------FEG---------------VGA----RSGGSFGGGRSGGGGYG	521
+AT3G18600.1      SHSLKDIF---------------------------NVHRLDLLAVAESFCFSSPPKVNLN	533
+AT5G65900.1      SHSMKDVF---------------------------NVHQLNLTEVATSFGFSDPPKVALK	599
+AT4G16630.1      DERALRKAEMEFAKAENMLEHRDEIYARPKRTWFMTEKEKKLVAQAEKDSAGNPAGGELV	627
+AT1G16280.1      VSKAKRVAMM------KMLDNGFEDKVKDR----RKLKRK--------TL---ADKGLLK	480
+AT5G60990.1      VAEAKKLSAM------NMKESGGRKRRGED----DEESER--------FLGGNKDRGNKE	441
+                                                                             
+
+AT3G46960.1      GPSNTN-RQYVVLVIKSEIPPPEKNMVS------IGKKSSDPSQGYFIA------PKSKR	990
+AT2G40700.1      S----------------HHKE---TMKRKRDERQKGQQGKKR---KKMSGTGN-------	604
+AT5G05450.1      E------IKFK---DKYREKQRQQNLQVRKEKRQEEKKEKGKRKRVDASASNDPKKASRK	545
+AT1G71280.1      D------IKFK---NKSREKQRQQNLLARKDKLQQEKRGKRKKSSKEAVDDSNKASRKRK	443
+AT1G71370.1      D------IKYK---NKSREKQRQQNLLARKDKLQQEKRGKRKKSSKEAVDDSNKASRKRK	536
+AT3G22310.1      SYGSSSGRSGG---G-S------------------------Y-GG---YGGSS----GRS	545
+AT3G18600.1      IES------GA---G-KVRKARKQ---Q-------GR------NGFSPYS----------	557
+AT5G65900.1      IDR------GG---Y-RSKREPVNKFKR-------GRGGGRP-GGKSKFE----------	631
+AT4G16630.1      SADRAEDLKMK---E-KRKREREKNLPR-------KKRRKLE-AAREMLEDNEGEEEEED	675
+AT1G16280.1      K---------R---G-KRQKSTEN------------------------------------	491
+AT5G60990.1      R---------G---G-NKDKKSSKKFKR--------------------------------	456
+                                                                             
+
+AT3G46960.1      GFEEEFYTKPSSRKGPVVIKIELPYHGVAAGVGYEVKGFDNKEFLCICDSKIKIDQVRLL	1050
+AT2G40700.1      --------R-------STQKT---------------------------------------	610
+AT5G05450.1      -----LTGK-------QRQTIQTAEDEEVMDRDYK---L----MIKVKKGLIKEDEYERL	586
+AT1G71280.1      -----LTGR-------QRQTIQTAQDEEEMNLRL--------------------------	465
+AT1G71370.1      -----LTGR-------QRQTIQTAQDEEEMNLRL--------------------------	558
+AT3G22310.1      GGGGGSYGG-------SGGSSSRYSGGSDRSSGFGSFGSGG-----------SSGGFGSD	587
+AT3G18600.1      -----PYG-----------KSTPTKEA---------------------------------	568
+AT5G65900.1      -----RY-----------------------------------------------------	633
+AT4G16630.1      EEGDEKRGR-------SRGKDKKKQETDKKGLTLKDLGYMRAKAVKAKQRAIDSGKMERP	728
+AT1G16280.1      ------------------------------------------------------------	491
+AT5G60990.1      ------------------------------------------------------------	456
+                                                                             
+
+AT3G46960.1      EDGNKAAFSQTVQQ-----LLD-LKS-DGNKF------PPALDPVKDLKLKDAELVETYY	1097
+AT2G40700.1      ------------------------------------------------------------	610
+AT5G05450.1      TG-----------------DDDLF------------------------------------	593
+AT1G71280.1      ------------------------------------------------------------	465
+AT1G71370.1      ------------------------------------------------------------	558
+AT3G22310.1      RS----------SQSSGRSSFGGFGSNDGKR---------------------SY------	610
+AT3G18600.1      ------------------------------------------------------------	568
+AT5G65900.1      ------------------------------------------------------------	633
+AT4G16630.1      KPDKKQSRSKPRNQPRGEEMKDLFKSDMGEKKQGRGGAAAAAKPRT--KSKNSFKSKARY	786
+AT1G16280.1      ------------------------------------------------------------	491
+AT5G60990.1      ------------------------------------------------------------	456
+                                                                             
+
+AT3G46960.1      KWTNLLQKMSMNKCHGCVKLEEHMKLAREIKKHKTDLKDLEFQMSDEALLQMPAFQGRID	1157
+AT2G40700.1      ------------------------------------------------------------	610
+AT5G05450.1      ------------------------------------------------------------	593
+AT1G71280.1      ------------------------------------------------------------	465
+AT1G71370.1      ------------------------------------------------------------	558
+AT3G22310.1      ------------------------------------------------------------	610
+AT3G18600.1      ------------------------------------------------------------	568
+AT5G65900.1      ------------------------------------------------------------	633
+AT4G16630.1      KRR---------------------------------------------------------	789
+AT1G16280.1      ------------------------------------------------------------	491
+AT5G60990.1      ------------------------------------------------------------	456
+                                                                             
+
+AT3G46960.1      VLKNIGCIDDDLVVQIKGRVACEMNSGEELICTVCLFENQFEELEPEEAVAIMSAFVFQQ	1217
+AT2G40700.1      ------------------------------------------------------------	610
+AT5G05450.1      ------------------------------------------------------------	593
+AT1G71280.1      ------------------------------------------------------------	465
+AT1G71370.1      ------------------------------------------------------------	558
+AT3G22310.1      ------------------------------------------------------------	610
+AT3G18600.1      ------------------------------------------------------------	568
+AT5G65900.1      ------------------------------------------------------------	633
+AT4G16630.1      ------------------------------------------------------------	789
+AT1G16280.1      ------------------------------------------------------------	491
+AT5G60990.1      ------------------------------------------------------------	456
+                                                                             
+
+AT3G46960.1      KNTSAPTLTPKLAKAKQRLYDTAIRLGELQAQYNLQIDPEEYAQENLKFGLVEVVYEWAK	1277
+AT2G40700.1      ------------------------------------------------------------	610
+AT5G05450.1      ------------------------------------------------------------	593
+AT1G71280.1      ------------------------------------------------------------	465
+AT1G71370.1      ------------------------------------------------------------	558
+AT3G22310.1      ------------------------------------------------------------	610
+AT3G18600.1      ------------------------------------------------------------	568
+AT5G65900.1      ------------------------------------------------------------	633
+AT4G16630.1      ------------------------------------------------------------	789
+AT1G16280.1      ------------------------------------------------------------	491
+AT5G60990.1      ------------------------------------------------------------	456
+                                                                             
+
+AT3G46960.1      GTPFAEICELTDVPEGLIVRTIVRLDETCREFKNAAAIMGNSALHKKMDAASNAIKRDIV	1337
+AT2G40700.1      ------------------------------------------------------------	610
+AT5G05450.1      ------------------------------------------------------------	593
+AT1G71280.1      ------------------------------------------------------------	465
+AT1G71370.1      ------------------------------------------------------------	558
+AT3G22310.1      ------------------------------------------------------------	610
+AT3G18600.1      ------------------------------------------------------------	568
+AT5G65900.1      ------------------------------------------------------------	633
+AT4G16630.1      ------------------------------------------------------------	789
+AT1G16280.1      ------------------------------------------------------------	491
+AT5G60990.1      ------------------------------------------------------------	456
+                                                                             
+
+AT3G46960.1      FAASLYVTGV	1347
+AT2G40700.1      ----------	610
+AT5G05450.1      ----------	593
+AT1G71280.1      ----------	465
+AT1G71370.1      ----------	558
+AT3G22310.1      ----------	610
+AT3G18600.1      ----------	568
+AT5G65900.1      ----------	633
+AT4G16630.1      ----------	789
+AT1G16280.1      ----------	491
+AT5G60990.1      ----------	456
+                           
